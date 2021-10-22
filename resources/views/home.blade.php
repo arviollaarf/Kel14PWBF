@@ -5,7 +5,7 @@
 <!--<![endif]-->
 	<head>
 		<meta charset="utf-8">
-		<title>Car Repair HTML5 Bootstrap Template</title>
+		<title>Viola Boutique HTML5 Bootstrap Template</title>
 		<meta name="description" content="Responsive HTML5 Template">
 		<meta name="author" content="webthemez">
 
@@ -72,11 +72,11 @@
 										<div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
 											<ul class="nav navbar-nav navbar-right">
 												<li class="active"><a href="#banner">Home</a></li>
-												<li><a href="#services">We Offer</a></li>
-												<li><a href="#about">About Us</a></li>
+												<li><a href="#services">Pendataan</a></li>
+												<li><a href="#about">Pemesanan</a></li>
 												
-												<li><a href="#portfolio">Work</a></li>
-												<li><a href="#price">Price</a></li>
+												<li><a href="#portfolio">About</a></li>
+												<li><a href="#price">Login</a></li>
 												<li><a href="#contact">Contact Us</a></li>
 											</ul>
 										</div>
@@ -103,7 +103,7 @@
 			<div class="banner-caption">
 						 
 						<div style="margin-top: 0px; opacity: 1;" data-animation-effect="fadeIn">
-								<h1>We are LEADER in CAR servicing</h1>
+								<h1>Selamat Datang di Viola Boutique</h1>
 								<h3 class="padding-top30">Lorem ipsum dolor sit amet.</h3>
 								<div class="padding-top60 contact-form">
 									<button class="btn cta-button">OFFERS</button>
