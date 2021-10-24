@@ -1,6 +1,8 @@
 <?php
 
+use App\Models\Barang;
 use Illuminate\Support\Facades\Route;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -13,8 +15,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/','App\Http\Controllers\HomeController@login');
-		
+Route::get('/','App\Http\Controllers\HomeController@Login');
 
 
 Route::get('/data', function () {
